@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 /**
  * The Line class contains attributes and methods used on lines.
  * @version 1.00 3 April 2022
