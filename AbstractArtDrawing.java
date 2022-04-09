@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 import biuoop.GUI;
 import biuoop.DrawSurface;
 import java.util.Random;
