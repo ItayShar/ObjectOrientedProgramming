@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 /**
  * The velocity class specifies the change in position on the X and Y axes.
  * @version 1.00 3 April 2022
