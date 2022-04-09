@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 /**
  * The Point class contains attributes and methods used on points.
  * @version 1.00 3 April 2022
