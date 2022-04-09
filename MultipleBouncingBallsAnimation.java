@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 import biuoop.DrawSurface;
 import biuoop.GUI;
 import biuoop.Sleeper;
