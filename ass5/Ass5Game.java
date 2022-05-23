@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 import gamedata.Game;
 /**
  * The Ass5Game class is used to test and show the game in assignment 5.
