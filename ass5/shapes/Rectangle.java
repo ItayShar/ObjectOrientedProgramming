@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 package shapes;
 /**
  * The Rectangle class contains attributes and methods used on rectangle objects.
