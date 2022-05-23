@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 import java.util.Map;
 /**
  * The And class contains attributes and different methods used on and expressions.
