@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 package gamedata;
 import shapes.Ball;
 import shapes.Rectangle;
