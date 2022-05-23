@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 import java.util.Map;
 
 /**
