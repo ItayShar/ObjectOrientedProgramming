@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 package gamedata;
 /**
  * The HitNotifier interface is used for objects that notifies if they have been hit.
