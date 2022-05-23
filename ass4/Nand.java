@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 import java.util.Map;
 /**
  * The Nand class contains attributes and methods used on nand-expressions.
