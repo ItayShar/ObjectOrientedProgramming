@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 package shapes;
 import biuoop.DrawSurface;
 import gamedata.CollisionInfo;
