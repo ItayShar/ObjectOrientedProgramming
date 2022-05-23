@@ -1,5 +1,3 @@
-//208005587 Itay Sharfer
-
 /**
  * The BaseExpression class contains attributes methods used on unary expressions.
  */
