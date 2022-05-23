@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 package shapes;
 /**
  * The velocity class specifies the change in position on the X and Y axes.
