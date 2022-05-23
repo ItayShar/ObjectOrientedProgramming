@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 package shapes;
 /**
  * The Line class contains attributes and methods used on lines.
