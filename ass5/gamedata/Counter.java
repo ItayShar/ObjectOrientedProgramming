@@ -1,4 +1,3 @@
-//208005587 Itay Sharfer
 package gamedata;
 /**
  * The Counter class is used for counting.
